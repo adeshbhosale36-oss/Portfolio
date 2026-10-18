@@ -75,7 +75,7 @@ h1, h2, h3, h4 {
   position: sticky;
   top: 0;
   z-index: 1000;
-  background: rgba(8, 12, 20, 0.85);
+  background: black;
   backdrop-filter: blur(16px);
   border-bottom: 1px solid var(--surface-border);
 }
